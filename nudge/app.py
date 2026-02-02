@@ -14,7 +14,7 @@ class NudgeApp:
     def __init__(self):
         self.app = QApplication(sys.argv)
         self.app.setApplicationName("Nudge")
-        self.app.setOrganizationName("Yang")
+        self.app.setOrganizationName("Nudge")
         
         # Keep app running when windows are closed
         self.app.setQuitOnLastWindowClosed(False)

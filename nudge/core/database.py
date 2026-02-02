@@ -19,7 +19,7 @@ class Database:
         """
         if db_path is None:
             # Use platform-specific data directory
-            data_dir = Path(user_data_dir("Nudge", "Yang"))
+            data_dir = Path(user_data_dir("Nudge", "Nudge"))
             data_dir.mkdir(parents=True, exist_ok=True)
             db_path = str(data_dir / "nudge.db")
         

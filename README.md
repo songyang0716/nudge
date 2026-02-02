@@ -21,7 +21,7 @@ A lightweight desktop application for macOS that helps you remember what you stu
 
 1. Navigate to the project directory:
 ```bash
-cd /Users/yang/Desktop/Projects/Nudge/nudge
+cd nudge
 ```
 
 2. Install dependencies:
